@@ -1,7 +1,7 @@
-import streamlit as at
+import streamlit as st
 
 st.title("Selamat Datang Warga 20 🥳")
 st.write(
     "Selamat Ngoding guys🥳🥺!!"
 )
-#st.image("IMG-20250521-WA0008.jpg", width=200)
+st.image("IMG-20250521-WA0008.jpg", width=200)
