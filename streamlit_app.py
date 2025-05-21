@@ -7,5 +7,5 @@ st.image(image_url, caption="Prabowo Subianto", use_column_width=True)
 
 st.title("Selamat Datang Warga 20 🥳")
 st.write(
-    "Selamat Ngoding guys😎😎."
+    "Selamat Ngoding guys😎😎😎."
 )
